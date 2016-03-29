@@ -2,9 +2,6 @@ package com.kostweb.xo.controller;
 
 import com.kostweb.xo.model.Player;
 
-/**
- * Created by kostweb on 3/29/16.
- */
 public class Game {
 
     public static final String GAME_NAME = "XO";
